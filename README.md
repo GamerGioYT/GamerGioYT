@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @GamerGioYT
-- 👀 I’m interested in Mario Moddingn
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in Mario Modding
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on NOTHING! :D
 - 📫 How to reach me: the.gamergio01@gmail.com
-- 😄 Pronouns: he/him (THERE ARE ONLY 2 GENDERS PEOPLE!)
-- ⚡ Fun fact: I still rmemeber at least 5 embarrising moments.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I could probably make a (good) Mario mod in 1 month, no breaks besides sleep and bathroom
 
 <!---
 GamerGioYT/GamerGioYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
